@@ -1,0 +1,10 @@
+# robots.txt for RVRR Construction & Property Sales
+# Replace the domain below with your live domain before publishing.
+
+User-agent: *
+Allow: /
+
+# Block nothing sensitive; entire static site is public.
+Disallow:
+
+Sitemap: https://www.rvrrconstruction.in/sitemap.xml
